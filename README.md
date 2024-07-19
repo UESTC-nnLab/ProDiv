@@ -19,7 +19,7 @@ We use the pre-trained ResNet50 for extracting patch features. You can download 
 
 ## ProDiv+
 
-ProDiv can also be found at [PseMix](https://github.com/liupei101/PseMix/blob/main/utils/core.py#L148). Moreover, its improved version (ProDiv+) is also contained. Please check the [PseMix repo](https://github.com/liupei101/PseMix) for more details. 
+An improved version (`ProDiv+`) can be found at [PseMix](https://github.com/liupei101/PseMix/blob/main/utils/core.py#L148). Moreover, ProDiv is also contained. For more details, you can move to the [PseMix repo](https://github.com/liupei101/PseMix). 
 
 ## 🔥 Related Resources
 
