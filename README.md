@@ -1,7 +1,5 @@
 # ProDiv: Prototype-driven consistent pseudo-bag division for whole-slide image classification
 
----
-
 *Computer Methods and Programs in Biomedicine, 2024*
 
 [[Journal Link]](https://www.sciencedirect.com/science/article/abs/pii/S0169260724001573) | [[arXiv]](https://arxiv.org/abs/2304.06652) | [[Related Resources]](https://github.com//UESTC-nnLab/ProDiv?tab=readme-ov-file#-related-resources) | [[Citation]](https://github.com//UESTC-nnLab/ProDiv?tab=readme-ov-file#-citation)
